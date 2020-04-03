@@ -1,4 +1,4 @@
-package com.testAutomationCoach.abstraccion;
+package com.testAutomationCoach.aAbstraccion;
 
 public class Perro {
     //variables de instancia, tamano, raza, nombre

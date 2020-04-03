@@ -1,4 +1,4 @@
-package com.testAutomationCoach.abstraccion;
+package com.testAutomationCoach.aAbstraccion;
 
 public class EjemploPerro {
     public static void main(String[] args) {

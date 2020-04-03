@@ -1,4 +1,4 @@
-package com.testAutomationCoach.abstraccion;
+package com.testAutomationCoach.aAbstraccion;
 
 public class Button {
     String label;

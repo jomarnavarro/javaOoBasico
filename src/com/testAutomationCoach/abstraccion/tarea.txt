@@ -1,0 +1,20 @@
+1.
+a) Añadir atributos y comportamiento a las clases de este paquete.
+
+*Alarma
+*Articulo
+*Cancion
+*CarritoDeCompras
+*Pelicula
+*Perro
+
+b) Implementar Ejemplos de cada clase instanciando dichas clases.
+
+2.
+Leer las clases GuessGame, Player y GameLauncher.  Posteriormente, ejecuta
+y debuguea el juego.
+
+3.
+En los archivos TapeDeck.java y DVDPlayer.java descomenta las instrucciones
+y arregla los errores de compilacion
+

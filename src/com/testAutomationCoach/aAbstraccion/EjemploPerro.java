@@ -10,5 +10,10 @@ public class EjemploPerro {
         fido.ladrar();
         fido.correr();
         fido.comer();
+
+        libs.Input.print("Nombre " + fido.nombre + "\n");
+        libs.Input.print("Raza " +fido.raza + "\n");
+        libs.Input.print("Tamaño " + fido.tamanio + "\n");
+
     }
 }

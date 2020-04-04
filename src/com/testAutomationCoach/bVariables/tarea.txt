@@ -1,0 +1,24 @@
+1.
+a) Debuguear los prograamas:
+* Asignacion
+* Instanciacion
+* AsignacionReferencia
+* IntArray
+* DogArray
+b) Colocar comentarios sobre cada linea para indicar que hace
+
+2.
+a) Determinar (sin correr) si los programas abajo compilan, y si no, arreglarlos
+* Book.java
+* Hobbit.java
+b) Determinar la salida de los programas (sin correrlos)
+c) comprobar el punto b) corriendo el programa.
+
+3.
+Crear las Clases:
+* Escuela
+* Grupo
+* Alumno
+* Maestro
+
+Determinar que clases son atributos de cuales otras.  Utilice la regla 'has-a'.

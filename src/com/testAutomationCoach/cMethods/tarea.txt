@@ -1,0 +1,41 @@
+1.
+a) Leer y entender el codigo de los siguientes programas.  Hacer comentarios
+en el codigo para indicar que hace cada cosa
+
+* PerroB
+* EjemploPerroB
+* Cuadrado
+* EjemploCuadrado
+
+b) Debuguear los programas
+* EjemploPerroB
+* EjemploCuadrado
+
+2.  Implementa el juego de batalla naval simplificado, utilizando un arreglo
+de 10 posiciones.
+
+El tablero debe tener diez posiciones, y tener las siguientes claves:
+* L para indicar que una casilla esta libre
+* N para indicar la posicion de la nave
+* X para indicar que una posicion ha sido golpeada correctamente
+
+
+Por ejemplo, este es el tablero inicial
+
+L  N  N  N  N  L  L  L  L  L
+0  1  2  3  4  5  6  7  8  9
+
+Si el usuario introduce la posicion 5, el tablero quedaria asi:
+
+L  N  N  N  N  L  L  L  L  L
+0  1  2  3  4  5  6  7  8  9
+
+puesto que golpeo en una posicion Libre.
+
+Sin embargo, si el usuario bombardea la posicion 1, el tablero quedaria asi:
+
+L  X  N  N  L  L  L  L  L
+0  1  2  3  4  5  6  7  8  9
+
+y se contabilizaria un golpe.  El objetivo es seguir pidiendole al usuario
+que adivine donde bombardear hasta que se hunda la nave.

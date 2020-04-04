@@ -2,9 +2,9 @@ package com.testAutomationCoach.aAbstraccion;
 
 public class Perro {
     //variables de instancia, tamano, raza, nombre
-    double tamanio;
-    String raza;
-    String nombre;
+    public double tamanio;
+    public String raza;
+    public String nombre;
 
     //comportamiento: ladrar, juguetear, comer, etc.
 

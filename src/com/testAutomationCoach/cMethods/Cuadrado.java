@@ -1,4 +1,4 @@
-package lOOP.shapes;
+package com.testAutomationCoach.cMethods;
 
 public class Cuadrado {
 	

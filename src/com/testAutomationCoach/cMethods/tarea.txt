@@ -11,7 +11,12 @@ b) Debuguear los programas
 * EjemploPerroB
 * EjemploCuadrado
 
-2.  Implementa el juego de batalla naval simplificado, utilizando un arreglo
+2.
+Implemente una clase que represente una guitarra electrica, e incluya como
+minimo la marca y una lista de famosos que la usen.
+
+3.
+Implementa el juego de batalla naval simplificado, utilizando un arreglo
 de 10 posiciones.
 
 El tablero debe tener diez posiciones, y tener las siguientes claves:

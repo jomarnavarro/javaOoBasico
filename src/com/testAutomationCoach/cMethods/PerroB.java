@@ -23,4 +23,28 @@ public class PerroB {
             ladrar();
         }
     }
+
+    public double getTamanio() {
+        return tamanio;
+    }
+
+    public void setTamanio(double tamanio) {
+        this.tamanio = tamanio;
+    }
+
+    public String getRaza() {
+        return raza;
+    }
+
+    public void setRaza(String raza) {
+        this.raza = raza;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
 }

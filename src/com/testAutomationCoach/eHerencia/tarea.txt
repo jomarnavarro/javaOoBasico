@@ -1,0 +1,7 @@
+1.
+a) Debuguear los prograamas Ejemplo:
+b) Colocar comentarios sobre cada linea para indicar que hace
+
+2.
+En las clases que heredan de Animal, corrija la herencia.  Existe una
+clase intermedia para Hipopotamo?

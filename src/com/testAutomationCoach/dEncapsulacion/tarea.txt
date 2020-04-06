@@ -1,0 +1,6 @@
+1.
+a) Debuguear los prograamas Ejemplo:
+b) Colocar comentarios sobre cada linea para indicar que hace
+
+2.
+Crear versiones de programas anteriores utilizando encapsulacion.
